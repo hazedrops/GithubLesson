@@ -186,3 +186,5 @@ function clearErrMsg() {
   error_msg1.innerHTML = '';
   error_msg2.innerHTML = '';
 }
+
+//Testing comment
